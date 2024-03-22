@@ -47,8 +47,7 @@ Quando solicitado com Select an Azure resource , faça as seguintes configuraç�
 - Tipo de recurso : Idioma
 - Nome do recurso : selecione o recurso de serviço de idioma que você acabou de criar
   
-Em seguid![6](https://github.com/MarcioCosta013/-Analise-de-Sentimentos-com-Language-Studio-no-Azure-AI/assets/87935294/eebf473e-ee18-4e05-8387-382a14287c22)
-a, selecione Concluído .
+Em seguida, selecione Concluído .
 
 ![3](https://github.com/MarcioCosta013/-Analise-de-Sentimentos-com-Language-Studio-no-Azure-AI/assets/87935294/d490c68d-1c78-43b1-8b55-08109f3e1f16)
 
